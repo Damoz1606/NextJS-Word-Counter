@@ -1,0 +1,15 @@
+.card {
+    width: 100%;
+    max-width: 46rem;
+    background-color: white;
+    border-radius: 8px;
+    padding: 0 auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.card .body,
+.card .footer {
+    width: 100%;
+    padding: 1rem;
+}
